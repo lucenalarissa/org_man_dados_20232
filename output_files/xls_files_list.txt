@@ -1,0 +1,10 @@
+Clientes.xls
+areas.xls
+Categorias.xls
+resultado.xls
+Fornecedores.xls
+ies.xls
+Produtos.xls
+DetalhesPedidos.xls
+Pedidos.xls
+capes.xls
